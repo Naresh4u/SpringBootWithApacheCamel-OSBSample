@@ -1,4 +1,4 @@
-package com.apache.camel.route;
+/*package com.apache.camel.route;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -50,3 +50,4 @@ public class CamelRoutesThree extends RouteBuilder {
 		}
 
 }
+*/
